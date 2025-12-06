@@ -17,9 +17,9 @@ import {
   createTheme,
   ThemeProvider
 } from '@mui/material';
-import CheckCircleIcon from '@mui/icons-material/CheckCircle';
-import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
-import LocalFireDepartmentIcon from '@mui/icons-material/LocalFireDepartment';
+import CheckCircleIcon from "@mui/icons-material/CheckCircleRounded";
+import FitnessCenterIcon from "@mui/icons-material/FitnessCenter";
+import LocalFireDepartmentIcon from "@mui/icons-material/LocalFireDepartment";
 import SportsGymnasticsIcon from '@mui/icons-material/SportsGymnastics';
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 import AccessTimeFilledIcon from '@mui/icons-material/AccessTimeFilled';
